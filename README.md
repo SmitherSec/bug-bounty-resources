@@ -1,4 +1,4 @@
-# bugbounty resources
+# Bug bounty resources
 This repository contains resources I consider useful for security research of web applications.
 The reason for making this repository is the following quote by [James Kettle](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher):
 > Every time you read a good quality blog post, read the entire archive.

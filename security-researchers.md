@@ -3,5 +3,5 @@
 Albinowax (James Kettle):
   * blogs:  
     * www.skeletonscribe.net
-    * portswigger.net/blog
+    * https://portswigger.net/blog
   * twitter: @albinowax

@@ -4,9 +4,10 @@
   * blogs:  
     * www.skeletonscribe.net
     * https://portswigger.net/blog
+  * github: https://github.com/albinowax
   * twitter: [@albinowax](https://twitter.com/albinowax)
 
 #### Evilsocket (Simone Margaritelli)
   * blog: https://www.evilsocket.net/
-  * twitter: [@evilsocket](https://twitter.com/evilsocket)
   * github: https://github.com/evilsocket
+  * twitter: [@evilsocket](https://twitter.com/evilsocket)

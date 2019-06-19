@@ -1,4 +1,4 @@
-## Sources ordered by github repository:
+## Sources containing github repositories:
 
 * [albinowax](https://github.com/albinowax) (James Kettle)
 * [Djadmin](https://github.com/djadmin) (Dheeraj Joshi)

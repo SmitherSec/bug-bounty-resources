@@ -11,3 +11,8 @@
   * blog: https://www.evilsocket.net/
   * github: https://github.com/evilsocket
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
+  
+#### Ngalongc (Ron Chan)
+  * blog: https://ngailong.wordpress.com/
+  * github: https://github.com/ngalongc
+  * twitter: [@ngalongc](https://twitter.com/ngalongc)

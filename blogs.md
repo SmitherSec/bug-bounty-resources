@@ -1,4 +1,4 @@
-## Sources ordered by blog:
+## Sources containing blogs:
 
 #### Albinowax's blogs:
   * www.skeletonscribe.net

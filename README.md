@@ -7,6 +7,7 @@ Therefore if I find quality content from a security researcher I try to find add
 These sources wil be added to this repository.
 The repository will not contain an index based on bug types as there is an excellent reference list made by [ngalongc](https://github.com/ngalongc/bug-bounty-reference).
 What it will contain is a list of resources ordered both by type of medium and by security researcher.
-Also there will be some miscellaneous lists like antivirus resources and cyber security firm resources.
-This repository will be in constant development.
-You are welcome to submit pull requests.
+This repository will be in constant development. You are welcome to submit pull requests.
+I want to thank all security researchers for sharing quality content. 
+It is incredibly helpful to find my way as a beginner security researcher.
+

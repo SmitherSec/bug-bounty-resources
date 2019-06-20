@@ -1,5 +1,4 @@
-## Sources containing github repositories:
-
+## Sources containing github repositories
 * [albinowax](https://github.com/albinowax) (James Kettle)
 * [Djadmin](https://github.com/djadmin) (Dheeraj Joshi)
 * [Evilsocket](https://github.com/evilsocket) (Simone Margaritelli)

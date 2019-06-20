@@ -4,5 +4,9 @@ However, I believe if you pay close attention there are some ideas to be found i
 Allowing yourself some cross-pollination from other areas like game hacking or investigative journalism possibly give fresh ideas
 to sharpen your web app hacking skills. Therefore I decided to include these sources in this file.
 
+#### Hacker culture & history
+  * http://www.nyxgeek.com/
+  * http://www.catb.org/esr/faqs/
+
 #### Investigative journalism
   * https://www.bellingcat.com/category/resources/how-tos/

@@ -4,9 +4,15 @@ However, I believe if you pay close attention there are some ideas to be found i
 Allowing yourself some cross-pollination from other areas like game hacking or investigative journalism possibly give fresh ideas
 to sharpen your web app hacking skills. Therefore I decided to include these kind of sources in this file.
 
+#### Cyber security companies
+  * https://www.fireeye.com/blog/threat-research.html
+  
 #### Hacker culture & history
   * http://www.nyxgeek.com/
   * http://www.catb.org/esr/faqs/
 
+#### Intelligence agencies
+  * https://www.nsa.gov/what-we-do/cybersecurity/#professional-resources
+  
 #### Investigative journalism
   * https://www.bellingcat.com/category/resources/how-tos/

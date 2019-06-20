@@ -9,7 +9,7 @@ The repository does not contain an index based on bug types as there is an excel
 It does contain a list of resources ordered both by type of medium and by security researcher.
 This repository will be in constant development. You are welcome to submit pull requests.
 I want to thank all security researchers for sharing quality content. 
-It is incredibly helpful to find my way as a beginner security researcher.
+It is incredibly helpful to find my way as a security researcher.
 
 For questions or comments please contact me on [LinkedIn](https://nl.linkedin.com/in/hendrickgroeneveld)
 

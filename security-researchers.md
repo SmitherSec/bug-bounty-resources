@@ -1,4 +1,4 @@
-## Sources ordered by security researcher:
+## Sources ordered by security researcher
 
 #### Albinowax (James Kettle):
   * blogs:  

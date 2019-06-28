@@ -14,5 +14,5 @@ to sharpen your web app hacking skills. Therefore I decided to include these kin
 #### Investigative journalism
   * https://www.bellingcat.com/category/resources/how-tos/
 
-#### Universities
+#### Whitepapers
   * http://www.theshulers.com/whitepapers/internet_whitepaper/index.html

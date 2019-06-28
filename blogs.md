@@ -23,3 +23,5 @@
 #### Ngalongc's blog:
   * https://ngailong.wordpress.com/
 
+#### Philippe Harewood's blog:
+  * https://philippeharewood.com/

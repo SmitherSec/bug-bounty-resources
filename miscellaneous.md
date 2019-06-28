@@ -15,4 +15,4 @@ to sharpen your web app hacking skills. Therefore I decided to include these kin
   * https://www.bellingcat.com/category/resources/how-tos/
 
 #### Universities
-  * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+  * http://www.theshulers.com/whitepapers/internet_whitepaper/index.html

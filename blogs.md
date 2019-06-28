@@ -17,6 +17,9 @@
   * https://www.kaspersky.com/blog/
   * https://securelist.com/
 
+#### Lcamtuf's blog:
+  * https://lcamtuf.blogspot.com/
+  
 #### Ngalongc's blog:
   * https://ngailong.wordpress.com/
 

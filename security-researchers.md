@@ -1,20 +1,24 @@
 ## Sources ordered by security researcher
 
-#### Albinowax (James Kettle):
+#### Albinowax
   * blogs:  https://portswigger.net/blog
   * github: https://github.com/albinowax
   * twitter: [@albinowax](https://twitter.com/albinowax)
   * website: www.skeletonscribe.net
 
-#### Evilsocket (Simone Margaritelli)
+#### Evilsocket
   * blog: https://www.evilsocket.net/
   * github: https://github.com/evilsocket
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
   
-#### Ngalongc (Ron Chan)
+#### Ngalongc
   * blog: https://ngailong.wordpress.com/
   * github: https://github.com/ngalongc
   * twitter: [@ngalongc](https://twitter.com/ngalongc)
+  
+#### Phwd
+  * blog: https://philippeharewood.com/
+  * twitter: [@phwd](https://twitter.com/phwd)
 
 #### Zseano
   * github: https://github.com/zseano

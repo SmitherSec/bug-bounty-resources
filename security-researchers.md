@@ -27,3 +27,4 @@
   * website: 
     * https://zseano.com/
     * https://www.bugbountynotes.com/
+  * youtube: https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg

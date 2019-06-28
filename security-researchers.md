@@ -1,15 +1,15 @@
 ## Sources ordered by security researcher
 
 #### Albinowax
-  * blogs:  https://portswigger.net/blog
+  * blog:  https://portswigger.net/blog
   * github: https://github.com/albinowax
   * twitter: [@albinowax](https://twitter.com/albinowax)
   * website: www.skeletonscribe.net
 
 #### Evilsocket
-  * blog: https://www.evilsocket.net/
   * github: https://github.com/evilsocket
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
+  * website: https://www.evilsocket.net/
   
 #### Ngalongc
   * blog: https://ngailong.wordpress.com/

@@ -1,4 +1,4 @@
-## Sources containing blogs:
+## Sources containing blogs
 
 #### Albinowax's blogs:
   * www.skeletonscribe.net
@@ -17,3 +17,11 @@
   * https://www.kaspersky.com/blog/
   * https://securelist.com/
 
+#### Lcamtuf's blog:
+  * https://lcamtuf.blogspot.com/
+  
+#### Ngalongc's blog:
+  * https://ngailong.wordpress.com/
+
+#### Phwd's blog:
+  * https://philippeharewood.com/

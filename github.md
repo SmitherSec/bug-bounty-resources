@@ -1,7 +1,7 @@
-## Sources containing github repositories:
-
-* [albinowax](https://github.com/albinowax) (James Kettle)
-* [Djadmin](https://github.com/djadmin) (Dheeraj Joshi)
-* [Evilsocket](https://github.com/evilsocket) (Simone Margaritelli)
-* [Ngalongc](https://github.com/ngalongc) (Ron Chan)
+## Sources containing github repositories
+* [albinowax](https://github.com/albinowax)
+* [Djadmin](https://github.com/djadmin)
+* [Evilsocket](https://github.com/evilsocket)
+* [Ngalongc](https://github.com/ngalongc)
 * [Zbetcheckin](https://github.com/zbetcheckin) 
+* [Zseano](https://github.com/zseano)

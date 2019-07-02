@@ -6,6 +6,12 @@
   * twitter: [@albinowax](https://twitter.com/albinowax)
   * website: www.skeletonscribe.net
 
+#### Beaujeant
+  * github:
+    * https://github.com/beaujeant
+    * https://beaujeant.github.io/
+  * twitter: [@Beaujeant](https://twitter.com/Beaujeant)
+
 #### Evilsocket
   * github: https://github.com/evilsocket
   * twitter: [@evilsocket](https://twitter.com/evilsocket)

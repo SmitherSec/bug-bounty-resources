@@ -15,6 +15,12 @@
   * github: https://github.com/jhaddix
   * twitter: [@jhaddix](https://twitter.com/jhaddix)
   
+#### LiveOverflow
+  * github: https://github.com/LiveOverflow
+  * twitter: [@LiveOverflow](https://twitter.com/liveoverflow)
+  * website: https://liveoverflow.com/
+  * youtube: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+  
 #### Ngalongc
   * blog: https://ngailong.wordpress.com/
   * github: https://github.com/ngalongc

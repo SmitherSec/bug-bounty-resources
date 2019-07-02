@@ -11,6 +11,10 @@
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
   * website: https://www.evilsocket.net/
   
+#### Jason Haddix
+  * github: https://github.com/jhaddix
+  * twitter: [@jhaddix](https://twitter.com/jhaddix)
+  
 #### Ngalongc
   * blog: https://ngailong.wordpress.com/
   * github: https://github.com/ngalongc

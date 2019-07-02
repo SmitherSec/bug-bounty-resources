@@ -11,5 +11,15 @@ This repository will be in constant development. You are welcome to submit pull 
 I want to thank all security researchers for sharing quality content. 
 It is incredibly helpful to find my way as a security researcher.
 
-For questions or comments please contact me on [LinkedIn](https://nl.linkedin.com/in/hendrickgroeneveld)
+#### Contents
+  * [blogs](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/blogs.md)
+  * [books](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/books.md)
+  * [github](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/github.md)
+  * [miscellaneous](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/miscellaneous.md)
+  * [security researchers](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/security-researchers.md)
+  * [twitter](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/twitter.md)
+  * [websites](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/website.md)
+  * [youtube channels](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/youtube-channels.md)
+
+
 

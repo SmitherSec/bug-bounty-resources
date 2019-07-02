@@ -22,6 +22,9 @@
   
 #### Ngalongc's blog:
   * https://ngailong.wordpress.com/
+  
+#### Noob Ninja's blog:
+  * https://www.noob.ninja/
 
 #### Phwd's blog:
   * https://philippeharewood.com/

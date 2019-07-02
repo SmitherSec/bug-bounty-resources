@@ -6,10 +6,26 @@
   * twitter: [@albinowax](https://twitter.com/albinowax)
   * website: www.skeletonscribe.net
 
+#### Beaujeant
+  * github:
+    * https://github.com/beaujeant
+    * https://beaujeant.github.io/
+  * twitter: [@Beaujeant](https://twitter.com/Beaujeant)
+
 #### Evilsocket
   * github: https://github.com/evilsocket
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
   * website: https://www.evilsocket.net/
+  
+#### Jason Haddix
+  * github: https://github.com/jhaddix
+  * twitter: [@jhaddix](https://twitter.com/jhaddix)
+  
+#### LiveOverflow
+  * github: https://github.com/LiveOverflow
+  * twitter: [@LiveOverflow](https://twitter.com/liveoverflow)
+  * website: https://liveoverflow.com/
+  * youtube: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
   
 #### Ngalongc
   * blog: https://ngailong.wordpress.com/

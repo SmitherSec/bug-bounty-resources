@@ -43,9 +43,16 @@
   
 #### Yaworsk
   * book: [Yaworski, P. (2017). Web Hacking 101. Leanpub.](https://leanpub.com/web-hacking-101)
-  * twitter: https://twitter.com/yaworsk
+  * twitter: [@yaworsk](https://twitter.com/yaworsk)
   * website: https://www.torontowebsitedeveloper.com/
   * youtube: https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
+  
+#### ZephrFish
+  * blog: https://blog.zsec.uk/
+  * book: [Gill, A. (2017). Breaking into Information Security: Learning the Ropes 101. Leanpub.](https://leanpub.com/ltr101-breaking-into-infosec)
+  * github: https://github.com/ZephrFish
+  * twitter: [@ZephrFish](https://twitter.com/ZephrFish)
+  * youtube: https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ
 
 #### Zseano
   * github: https://github.com/zseano

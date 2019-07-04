@@ -28,3 +28,6 @@
 
 #### Phwd's blog:
   * https://philippeharewood.com/
+
+#### ZephrFish's blog:
+  * https://blog.zsec.uk/

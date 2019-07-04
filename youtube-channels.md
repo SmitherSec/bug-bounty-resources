@@ -6,5 +6,6 @@
   * [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
   * [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
   * [Jackk](https://www.youtube.com/user/JackkTutorials/about)
+  * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
   * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   * [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)

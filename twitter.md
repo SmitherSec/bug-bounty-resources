@@ -6,6 +6,7 @@
 * [@LiveOverflow](https://twitter.com/liveoverflow)
 * [@ngalongc](https://twitter.com/ngalongc)
 * [@phwd](https://twitter.com/phwd)
+* [@pentest_swissky](https://twitter.com/pentest_swissky)
 * [@yaworsk](https://twitter.com/yaworsk)
 * [@ZephrFish](https://twitter.com/ZephrFish)
 * [@zseano](https://twitter.com/zseano)

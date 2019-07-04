@@ -41,6 +41,10 @@
   * blog: https://philippeharewood.com/
   * twitter: [@phwd](https://twitter.com/phwd)
   
+#### Swissky
+  * github: https://github.com/swisskyrepo/PayloadsAllTheThings
+  * twitter: [@pentest_swissky](https://twitter.com/pentest_swissky)
+  
 #### Yaworsk
   * book: [Yaworski, P. (2017). Web Hacking 101. Leanpub.](https://leanpub.com/web-hacking-101)
   * twitter: [@yaworsk](https://twitter.com/yaworsk)

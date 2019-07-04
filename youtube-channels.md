@@ -10,5 +10,6 @@
   * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
   * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   * [MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+  * [Peter Yaworski](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA)
   * [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
   * [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)

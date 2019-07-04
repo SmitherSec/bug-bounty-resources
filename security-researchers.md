@@ -40,6 +40,12 @@
 #### Phwd
   * blog: https://philippeharewood.com/
   * twitter: [@phwd](https://twitter.com/phwd)
+  
+#### Yaworsk
+  * book: [Yaworski, P. (2017). Web Hacking 101. Leanpub.](https://leanpub.com/web-hacking-101)
+  * twitter: https://twitter.com/yaworsk
+  * website: https://www.torontowebsitedeveloper.com/
+  * youtube: https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
 
 #### Zseano
   * github: https://github.com/zseano

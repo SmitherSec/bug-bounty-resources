@@ -12,4 +12,5 @@
   * [MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
   * [Yaworsk](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA)
   * [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+  * [ZephrFish](https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ)
   * [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)

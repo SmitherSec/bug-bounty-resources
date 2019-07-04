@@ -17,6 +17,11 @@
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
   * website: https://www.evilsocket.net/
   
+#### Jackk
+  * blog: https://www.jackktutorials.com/blog/
+  * twitter: [@JackkTutorials](https://twitter.com/JackkTutorials)
+  * youtube: https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA
+  
 #### Jason Haddix
   * github: https://github.com/jhaddix
   * twitter: [@jhaddix](https://twitter.com/jhaddix)

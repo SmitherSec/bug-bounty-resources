@@ -1,5 +1,6 @@
 ## Sources containing github repositories
 * [albinowax](https://github.com/albinowax)
+* [Beaujeant](https://github.com/beaujeant)
 * [Djadmin](https://github.com/djadmin)
 * [Evilsocket](https://github.com/evilsocket)
 * [Ngalongc](https://github.com/ngalongc)

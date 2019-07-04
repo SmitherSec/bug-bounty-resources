@@ -42,7 +42,9 @@
   * twitter: [@phwd](https://twitter.com/phwd)
   
 #### Swissky
-  * github: https://github.com/swisskyrepo/PayloadsAllTheThings
+  * github: 
+    * https://github.com/swisskyrepo/PayloadsAllTheThings
+    * https://swisskyrepo.github.io/
   * twitter: [@pentest_swissky](https://twitter.com/pentest_swissky)
   
 #### Yaworsk

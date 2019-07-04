@@ -8,4 +8,5 @@
   * [Jackk](https://www.youtube.com/user/JackkTutorials/about)
   * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
   * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+  * [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
   * [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)

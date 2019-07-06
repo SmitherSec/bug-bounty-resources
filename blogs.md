@@ -28,3 +28,6 @@
 
 #### Phwd's blog:
   * https://philippeharewood.com/
+
+#### Pink P4nther's blog:
+  * https://pinkysplanet.net/

@@ -7,6 +7,9 @@
 #### Evilsocket's blog:
   * https://www.evilsocket.net/
   
+#### Geekboy's blog:
+  * https://www.geekboy.ninja/blog/
+  
 #### Hackerone blog:
   * https://www.hackerone.com/blog
 

@@ -3,6 +3,7 @@
 * [@Beaujeant](https://twitter.com/Beaujeant)
 * [@DanielMiessler](https://twitter.com/danielmiessler)
 * [@evilsocket](https://twitter.com/evilsocket)
+* [@fransrosen](https://twitter.com/fransrosen)
 * [@jhaddix](https://twitter.com/jhaddix)
 * [@LiveOverflow](https://twitter.com/liveoverflow)
 * [@NahamSec](https://twitter.com/nahamsec)

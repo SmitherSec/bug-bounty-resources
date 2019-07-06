@@ -21,6 +21,10 @@
   * github: https://github.com/evilsocket
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
   * website: https://www.evilsocket.net/
+  
+#### Geekboy
+  * blog: https://www.geekboy.ninja/blog/
+  * twitter: [@emgeekboy](https://twitter.com/emgeekboy)
 
 #### Gynvael
   * twitter: [@gynvael](https://twitter.com/gynvael)

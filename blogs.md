@@ -38,5 +38,8 @@
 #### Phwd's blog:
   * https://philippeharewood.com/
 
+#### Pink P4nther's blog:
+  * https://pinkysplanet.net/
+
 #### ZephrFish's blog:
   * https://blog.zsec.uk/

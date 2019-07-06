@@ -11,6 +11,7 @@
 * [@LiveOverflow](https://twitter.com/liveoverflow)
 * [@NahamSec](https://twitter.com/nahamsec)
 * [@ngalongc](https://twitter.com/ngalongc)
+* [@pentest_swissky](https://twitter.com/pentest_swissky)
 * [@phwd](https://twitter.com/phwd)
 * [@pentest_swissky](https://twitter.com/pentest_swissky)
 * [@PortSwigger](https://twitter.com/portswigger)

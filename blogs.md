@@ -26,6 +26,9 @@
 #### Noob Ninja's blog:
   * https://www.noob.ninja/
 
+#### Orange Tsai's blog:
+  * http://blog.orange.tw/
+
 #### Phwd's blog:
   * https://philippeharewood.com/
 

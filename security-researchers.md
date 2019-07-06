@@ -21,6 +21,11 @@
   * github: https://github.com/evilsocket
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
   * website: https://www.evilsocket.net/
+
+#### Gynvael
+  * twitter: [@gynvael](https://twitter.com/gynvael)
+  * website: https://gynvael.coldwind.pl/
+  * youtube: https://www.youtube.com/c/GynvaelEN
   
 #### Jackk
   * blog: https://www.jackktutorials.com/blog/

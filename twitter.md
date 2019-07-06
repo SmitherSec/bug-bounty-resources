@@ -8,5 +8,6 @@
 * [@jhaddix](https://twitter.com/jhaddix)
 * [@LiveOverflow](https://twitter.com/liveoverflow)
 * [@ngalongc](https://twitter.com/ngalongc)
+* [@pentest_swissky](https://twitter.com/pentest_swissky)
 * [@phwd](https://twitter.com/phwd)
 * [@zseano](https://twitter.com/zseano)

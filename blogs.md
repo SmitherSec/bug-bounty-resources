@@ -4,6 +4,9 @@
   * www.skeletonscribe.net
   * https://portswigger.net/blog
 
+#### Dectectify blog:
+  * https://blog.detectify.com/
+  
 #### Evilsocket's blog:
   * https://www.evilsocket.net/
   

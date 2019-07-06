@@ -3,6 +3,7 @@
 * [Beaujeant](https://github.com/beaujeant)
 * [Djadmin](https://github.com/djadmin)
 * [Evilsocket](https://github.com/evilsocket)
+* [Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Ngalongc](https://github.com/ngalongc)
 * [Swissky](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Zbetcheckin](https://github.com/zbetcheckin) 

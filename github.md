@@ -3,6 +3,7 @@
 * [Beaujeant](https://github.com/beaujeant)
 * [Djadmin](https://github.com/djadmin)
 * [Evilsocket](https://github.com/evilsocket)
+* [gradiuscypher/infosec_getting_started](https://github.com/gradiuscypher/infosec_getting_started)
 * [Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Ngalongc](https://github.com/ngalongc)
 * [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)

@@ -5,6 +5,7 @@
 * [Evilsocket](https://github.com/evilsocket)
 * [Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Ngalongc](https://github.com/ngalongc)
+* [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [Swissky](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Zbetcheckin](https://github.com/zbetcheckin) 
 * [ZephrFish](https://github.com/ZephrFish)

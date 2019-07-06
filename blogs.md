@@ -4,8 +4,14 @@
   * www.skeletonscribe.net
   * https://portswigger.net/blog
 
+#### Dectectify blog:
+  * https://blog.detectify.com/
+  
 #### Evilsocket's blog:
   * https://www.evilsocket.net/
+  
+#### Geekboy's blog:
+  * https://www.geekboy.ninja/blog/
   
 #### Hackerone blog:
   * https://www.hackerone.com/blog
@@ -26,8 +32,14 @@
 #### Noob Ninja's blog:
   * https://www.noob.ninja/
 
+#### Orange Tsai's blog:
+  * http://blog.orange.tw/
+
 #### Phwd's blog:
   * https://philippeharewood.com/
 
 #### Pink P4nther's blog:
   * https://pinkysplanet.net/
+
+#### ZephrFish's blog:
+  * https://blog.zsec.uk/

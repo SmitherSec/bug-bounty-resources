@@ -1,6 +1,11 @@
 ## Website resources
 
-* https://www.bugbountynotes.com/
-* http://lcamtuf.coredump.cx/
-* www.skeletonscribe.net
-* https://zseano.com/
+* [Azeria Labs](https://azeria-labs.com/)
+* [bugbountynotes](https://www.bugbountynotes.com/)
+* [gynvael](https://gynvael.coldwind.pl/)
+* [hacker101](https://www.hacker101.com/)
+* [hackertube](https://hackertube.net/)
+* [lcamtuf](http://lcamtuf.coredump.cx/)
+* [portswigger](https://portswigger.net/web-security)
+* [skeletonscribe](www.skeletonscribe.net)
+* [zseano](https://zseano.com/)

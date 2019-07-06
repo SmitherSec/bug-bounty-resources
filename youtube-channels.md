@@ -1,5 +1,17 @@
 ## Sources containing youtube channels
 
   * [Bugcrowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
+  * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+  * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+  * [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+  * [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+  * [Gynvael](https://www.youtube.com/c/GynvaelEN)
+  * [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+  * [Jackk](https://www.youtube.com/user/JackkTutorials/about)
+  * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
   * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+  * [MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+  * [Yaworsk](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA)
+  * [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+  * [ZephrFish](https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ)
   * [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)

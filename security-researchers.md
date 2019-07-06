@@ -1,5 +1,10 @@
 ## Sources ordered by security researcher
 
+#### 0xacb
+  * github:https://github.com/0xACB
+  * twitter: [@0xacb](https://twitter.com/0xacb)
+  * website: https://pwning.re/
+
 #### Albinowax
   * blog:  https://portswigger.net/blog
   * github: https://github.com/albinowax
@@ -16,6 +21,20 @@
   * github: https://github.com/evilsocket
   * twitter: [@evilsocket](https://twitter.com/evilsocket)
   * website: https://www.evilsocket.net/
+  
+#### Geekboy
+  * blog: https://www.geekboy.ninja/blog/
+  * twitter: [@emgeekboy](https://twitter.com/emgeekboy)
+
+#### Gynvael
+  * twitter: [@gynvael](https://twitter.com/gynvael)
+  * website: https://gynvael.coldwind.pl/
+  * youtube: https://www.youtube.com/c/GynvaelEN
+  
+#### Jackk
+  * blog: https://www.jackktutorials.com/blog/
+  * twitter: [@JackkTutorials](https://twitter.com/JackkTutorials)
+  * youtube: https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA
   
 #### Jason Haddix
   * github: https://github.com/jhaddix
@@ -35,6 +54,25 @@
 #### Phwd
   * blog: https://philippeharewood.com/
   * twitter: [@phwd](https://twitter.com/phwd)
+  
+#### Swissky
+  * github: 
+    * https://github.com/swisskyrepo/PayloadsAllTheThings
+    * https://swisskyrepo.github.io/
+  * twitter: [@pentest_swissky](https://twitter.com/pentest_swissky)
+  
+#### Yaworsk
+  * book: [Yaworski, P. (2017). Web Hacking 101. Leanpub.](https://leanpub.com/web-hacking-101)
+  * twitter: [@yaworsk](https://twitter.com/yaworsk)
+  * website: https://www.torontowebsitedeveloper.com/
+  * youtube: https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
+  
+#### ZephrFish
+  * blog: https://blog.zsec.uk/
+  * book: [Gill, A. (2017). Breaking into Information Security: Learning the Ropes 101. Leanpub.](https://leanpub.com/ltr101-breaking-into-infosec)
+  * github: https://github.com/ZephrFish
+  * twitter: [@ZephrFish](https://twitter.com/ZephrFish)
+  * youtube: https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ
 
 #### Zseano
   * github: https://github.com/zseano

@@ -51,6 +51,10 @@
   * website: https://liveoverflow.com/
   * youtube: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
   
+#### Nahamsec
+  * github: https://github.com/nahamsec/
+  * twitter: [@NahamSec](https://twitter.com/nahamsec)
+  
 #### Ngalongc
   * blog: https://ngailong.wordpress.com/
   * github: https://github.com/ngalongc

@@ -3,6 +3,7 @@
 * [@albinowax](https://twitter.com/albinowax)
 * [@Beaujeant](https://twitter.com/Beaujeant)
 * [@DanielMiessler](https://twitter.com/danielmiessler)
+* [@EdOverflow](https://twitter.com/EdOverflow)
 * [@emgeekboy](https://twitter.com/emgeekboy)
 * [@evilsocket](https://twitter.com/evilsocket)
 * [@fransrosen](https://twitter.com/fransrosen)

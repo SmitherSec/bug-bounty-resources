@@ -2,6 +2,7 @@
 * [albinowax](https://github.com/albinowax)
 * [Beaujeant](https://github.com/beaujeant)
 * [Djadmin](https://github.com/djadmin)
+* [EdOverflow](https://github.com/EdOverflow)
 * [Evilsocket](https://github.com/evilsocket)
 * [gradiuscypher](https://github.com/gradiuscypher/infosec_getting_started)
 * [Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)

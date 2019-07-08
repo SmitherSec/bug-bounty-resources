@@ -5,6 +5,7 @@
 * [Evilsocket](https://github.com/evilsocket)
 * [gradiuscypher](https://github.com/gradiuscypher/infosec_getting_started)
 * [Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [nahamsec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 * [Ngalongc](https://github.com/ngalongc)
 * [qazbnm456](https://github.com/qazbnm456/awesome-web-security)
 * [Swissky](https://github.com/swisskyrepo/PayloadsAllTheThings)

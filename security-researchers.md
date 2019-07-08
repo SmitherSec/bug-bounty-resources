@@ -16,6 +16,11 @@
     * https://github.com/beaujeant
     * https://beaujeant.github.io/
   * twitter: [@Beaujeant](https://twitter.com/Beaujeant)
+  
+#### EdOverflow
+  * github: [EdOverflow](https://github.com/EdOverflow)
+  * twitter: [@EdOverflow](https://twitter.com/EdOverflow)
+  * website: https://edoverflow.com/
 
 #### Evilsocket
   * github: https://github.com/evilsocket

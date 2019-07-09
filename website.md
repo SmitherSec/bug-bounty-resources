@@ -8,7 +8,7 @@
 * [hackertube](https://hackertube.net/)
 * [lcamtuf](http://lcamtuf.coredump.cx/)
 * [portswigger](https://portswigger.net/web-security)
-* [SecJuice](https://secjuice.com/)
+* [SecJuice](https://www.secjuice.com/)
 * [skeletonscribe](www.skeletonscribe.net)
 * [zseano](https://zseano.com/)
 

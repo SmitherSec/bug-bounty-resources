@@ -17,6 +17,10 @@
     * https://beaujeant.github.io/
   * twitter: [@Beaujeant](https://twitter.com/Beaujeant)
   
+#### Brutelogic
+  * blog: https://brutelogic.com.br/blog/
+  * twitter: [@brutelogic](https://twitter.com/brutelogic)
+  
 #### EdOverflow
   * github: [EdOverflow](https://github.com/EdOverflow)
   * twitter: [@EdOverflow](https://twitter.com/EdOverflow)

@@ -3,6 +3,9 @@
 #### Albinowax's blogs:
   * www.skeletonscribe.net
   * https://portswigger.net/blog
+  
+#### Brutelogic's blog:
+  * https://brutelogic.com.br/blog/
 
 #### Dectectify blog:
   * https://blog.detectify.com/

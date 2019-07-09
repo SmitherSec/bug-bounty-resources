@@ -2,6 +2,7 @@
 * [@0xacb](https://twitter.com/0xacb)
 * [@albinowax](https://twitter.com/albinowax)
 * [@Beaujeant](https://twitter.com/Beaujeant)
+* [@brutelogic](https://twitter.com/brutelogic)
 * [@daeken](https://twitter.com/daeken)
 * [@DanielMiessler](https://twitter.com/danielmiessler)
 * [@EdOverflow](https://twitter.com/EdOverflow)

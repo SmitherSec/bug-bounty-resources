@@ -10,3 +10,4 @@
 * [portswigger](https://portswigger.net/web-security)
 * [skeletonscribe](www.skeletonscribe.net)
 * [zseano](https://zseano.com/)
+* [SecJuice](https://secjuice.com/)

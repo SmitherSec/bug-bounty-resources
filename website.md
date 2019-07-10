@@ -10,6 +10,7 @@
 * [Pentester Land](https://pentester.land/)
 * [portswigger](https://portswigger.net/web-security)
 * [SecJuice](https://www.secjuice.com/)
+* [STÖK](https://www.stokfredrik.com/)
 * [skeletonscribe](www.skeletonscribe.net)
 * [zseano](https://zseano.com/)
 

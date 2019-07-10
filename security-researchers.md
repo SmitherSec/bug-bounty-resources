@@ -10,6 +10,10 @@
   * github: https://github.com/albinowax
   * twitter: [@albinowax](https://twitter.com/albinowax)
   * website: www.skeletonscribe.net
+  
+#### Arne Swinnen
+  * blog: https://www.arneswinnen.net/
+  * twitter: [@arneswinnen](https://twitter.com/ArneSwinnen)
 
 #### Beaujeant
   * github:

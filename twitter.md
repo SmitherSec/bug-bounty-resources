@@ -19,6 +19,7 @@
 * [@phwd](https://twitter.com/phwd)
 * [@pentest_swissky](https://twitter.com/pentest_swissky)
 * [@PortSwigger](https://twitter.com/portswigger)
+* [@stokfredrik](https://twitter.com/stokfredrik)
 * [@yaworsk](https://twitter.com/yaworsk)
 * [@ZephrFish](https://twitter.com/ZephrFish)
 * [@zseano](https://twitter.com/zseano)

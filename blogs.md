@@ -4,6 +4,9 @@
   * www.skeletonscribe.net
   * https://portswigger.net/blog
   
+#### Arne Swinnen's blog:
+  * https://www.arneswinnen.net/
+  
 #### Brutelogic's blog:
   * https://brutelogic.com.br/blog/
 

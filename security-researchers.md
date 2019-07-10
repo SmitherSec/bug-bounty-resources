@@ -10,12 +10,20 @@
   * github: https://github.com/albinowax
   * twitter: [@albinowax](https://twitter.com/albinowax)
   * website: www.skeletonscribe.net
+  
+#### Arne Swinnen
+  * blog: https://www.arneswinnen.net/
+  * twitter: [@arneswinnen](https://twitter.com/ArneSwinnen)
 
 #### Beaujeant
   * github:
     * https://github.com/beaujeant
     * https://beaujeant.github.io/
   * twitter: [@Beaujeant](https://twitter.com/Beaujeant)
+  
+#### Brutelogic
+  * blog: https://brutelogic.com.br/blog/
+  * twitter: [@brutelogic](https://twitter.com/brutelogic)
   
 #### EdOverflow
   * github: [EdOverflow](https://github.com/EdOverflow)

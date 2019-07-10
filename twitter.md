@@ -1,7 +1,9 @@
 ## Source file containing twitter accounts
 * [@0xacb](https://twitter.com/0xacb)
 * [@albinowax](https://twitter.com/albinowax)
+* [@arneswinnen](https://twitter.com/ArneSwinnen)
 * [@Beaujeant](https://twitter.com/Beaujeant)
+* [@brutelogic](https://twitter.com/brutelogic)
 * [@daeken](https://twitter.com/daeken)
 * [@DanielMiessler](https://twitter.com/danielmiessler)
 * [@EdOverflow](https://twitter.com/EdOverflow)
@@ -17,6 +19,7 @@
 * [@phwd](https://twitter.com/phwd)
 * [@pentest_swissky](https://twitter.com/pentest_swissky)
 * [@PortSwigger](https://twitter.com/portswigger)
+* [@stokfredrik](https://twitter.com/stokfredrik)
 * [@yaworsk](https://twitter.com/yaworsk)
 * [@ZephrFish](https://twitter.com/ZephrFish)
 * [@zseano](https://twitter.com/zseano)

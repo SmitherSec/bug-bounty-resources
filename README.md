@@ -12,14 +12,14 @@ I want to thank all security researchers for sharing quality content.
 It is incredibly helpful to find my way as a security researcher.
 
 #### Contents
-  * [blogs](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/blogs.md)
-  * [books](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/books.md)
-  * [github](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/github.md)
-  * [miscellaneous](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/miscellaneous.md)
-  * [security researchers](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/security-researchers.md)
-  * [twitter](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/twitter.md)
-  * [websites](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/website.md)
-  * [youtube channels](https://github.com/Groeneveld-E/bugbounty-resources/blob/edit-all/youtube-channels.md)
+  * [blogs](https://github.com/SmitherSec/bug-bounty-resources/blob/master/blogs.md)
+  * [books](https://github.com/SmitherSec/bug-bounty-resources/blob/master/books.md)
+  * [github](https://github.com/SmitherSec/bug-bounty-resources/blob/master/github.md)
+  * [miscellaneous](https://github.com/SmitherSec/bug-bounty-resources/blob/master/miscellaneous.md)
+  * [security researchers](https://github.com/SmitherSec/bug-bounty-resources/blob/master/security-researchers.md)
+  * [twitter](https://github.com/SmitherSec/bug-bounty-resources/blob/master/twitter.md)
+  * [websites](https://github.com/SmitherSec/bug-bounty-resources/blob/master/website.md)
+  * [youtube channels](https://github.com/SmitherSec/bug-bounty-resources/blob/master/youtube-channels.md)
 
 
 

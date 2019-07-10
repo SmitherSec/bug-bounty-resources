@@ -7,7 +7,7 @@
   * [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
   * [Gynvael](https://www.youtube.com/c/GynvaelEN)
   * [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
-  * [Jackk](https://www.youtube.com/user/JackkTutorials/about)
+  * [Jackk](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
   * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
   * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   * [MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)

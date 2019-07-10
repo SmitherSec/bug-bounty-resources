@@ -64,6 +64,11 @@
   * blog: https://philippeharewood.com/
   * twitter: [@phwd](https://twitter.com/phwd)
   
+#### STÖK
+  * twitter: [@stokfredrik](https://twitter.com/stokfredrik)
+  * website: https://www.stokfredrik.com/
+  * youtube: [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+  
 #### Swissky
   * github: 
     * https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -74,7 +79,7 @@
   * book: [Yaworski, P. (2017). Web Hacking 101. Leanpub.](https://leanpub.com/web-hacking-101)
   * twitter: [@yaworsk](https://twitter.com/yaworsk)
   * website: https://www.torontowebsitedeveloper.com/
-  * youtube: https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
+  * youtube: [Yaworsk](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA)
   
 #### ZephrFish
   * blog: https://blog.zsec.uk/

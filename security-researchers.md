@@ -34,12 +34,12 @@
 #### Gynvael
   * twitter: [@gynvael](https://twitter.com/gynvael)
   * website: https://gynvael.coldwind.pl/
-  * youtube: https://www.youtube.com/c/GynvaelEN
+  * youtube: [Gynvael](https://www.youtube.com/c/GynvaelEN)
   
 #### Jackk
   * blog: https://www.jackktutorials.com/blog/
   * twitter: [@JackkTutorials](https://twitter.com/JackkTutorials)
-  * youtube: https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA
+  * youtube: [Jackk](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
   
 #### Jason Haddix
   * github: https://github.com/jhaddix
@@ -49,7 +49,7 @@
   * github: https://github.com/LiveOverflow
   * twitter: [@LiveOverflow](https://twitter.com/liveoverflow)
   * website: https://liveoverflow.com/
-  * youtube: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+  * youtube: [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   
 #### Nahamsec
   * github: https://github.com/nahamsec/
@@ -86,7 +86,7 @@
   * book: [Gill, A. (2017). Breaking into Information Security: Learning the Ropes 101. Leanpub.](https://leanpub.com/ltr101-breaking-into-infosec)
   * github: https://github.com/ZephrFish
   * twitter: [@ZephrFish](https://twitter.com/ZephrFish)
-  * youtube: https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ
+  * youtube: [ZephrFish](https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ)
 
 #### Zseano
   * github: https://github.com/zseano
@@ -95,4 +95,4 @@
   * website: 
     * https://zseano.com/
     * https://www.bugbountynotes.com/
-  * youtube: https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg
+  * youtube: [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)

@@ -17,6 +17,7 @@ It is incredibly helpful to find my way as a security researcher.
   * [github](https://github.com/SmitherSec/bug-bounty-resources/blob/master/github.md)
   * [miscellaneous](https://github.com/SmitherSec/bug-bounty-resources/blob/master/miscellaneous.md)
   * [security researchers](https://github.com/SmitherSec/bug-bounty-resources/blob/master/security-researchers.md)
+  * [training games](https://github.com/SmitherSec/bug-bounty-resources/blob/master/Training-games.md)
   * [twitter](https://github.com/SmitherSec/bug-bounty-resources/blob/master/twitter.md)
   * [websites](https://github.com/SmitherSec/bug-bounty-resources/blob/master/website.md)
   * [youtube channels](https://github.com/SmitherSec/bug-bounty-resources/blob/master/youtube-channels.md)

@@ -42,12 +42,12 @@
 #### Gynvael
   * twitter: [@gynvael](https://twitter.com/gynvael)
   * website: https://gynvael.coldwind.pl/
-  * youtube: https://www.youtube.com/c/GynvaelEN
+  * youtube: [Gynvael](https://www.youtube.com/c/GynvaelEN)
   
 #### Jackk
   * blog: https://www.jackktutorials.com/blog/
   * twitter: [@JackkTutorials](https://twitter.com/JackkTutorials)
-  * youtube: https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA
+  * youtube: [Jackk](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
   
 #### Jason Haddix
   * github: https://github.com/jhaddix
@@ -57,7 +57,7 @@
   * github: https://github.com/LiveOverflow
   * twitter: [@LiveOverflow](https://twitter.com/liveoverflow)
   * website: https://liveoverflow.com/
-  * youtube: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+  * youtube: [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   
 #### Nahamsec
   * github: https://github.com/nahamsec/
@@ -72,6 +72,11 @@
   * blog: https://philippeharewood.com/
   * twitter: [@phwd](https://twitter.com/phwd)
   
+#### STÖK
+  * twitter: [@stokfredrik](https://twitter.com/stokfredrik)
+  * website: https://www.stokfredrik.com/
+  * youtube: [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+  
 #### Swissky
   * github: 
     * https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -82,14 +87,14 @@
   * book: [Yaworski, P. (2017). Web Hacking 101. Leanpub.](https://leanpub.com/web-hacking-101)
   * twitter: [@yaworsk](https://twitter.com/yaworsk)
   * website: https://www.torontowebsitedeveloper.com/
-  * youtube: https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA
+  * youtube: [Yaworsk](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA)
   
 #### ZephrFish
   * blog: https://blog.zsec.uk/
   * book: [Gill, A. (2017). Breaking into Information Security: Learning the Ropes 101. Leanpub.](https://leanpub.com/ltr101-breaking-into-infosec)
   * github: https://github.com/ZephrFish
   * twitter: [@ZephrFish](https://twitter.com/ZephrFish)
-  * youtube: https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ
+  * youtube: [ZephrFish](https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ)
 
 #### Zseano
   * github: https://github.com/zseano
@@ -98,4 +103,4 @@
   * website: 
     * https://zseano.com/
     * https://www.bugbountynotes.com/
-  * youtube: https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg
+  * youtube: [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)

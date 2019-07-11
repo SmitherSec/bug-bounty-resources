@@ -1,5 +1,7 @@
 ## Training games
-_CTF, wargames, VM's etc._
+_CTF, wargames, labs, VM's etc._
 
-* [BugBountyNotes](https://www.bugbountynotes.com/)
+* [Bug Bounty Notes](https://www.bugbountynotes.com/)
+* [Hacker101](https://www.hacker101.com/)
+* [Hack The Box](https://www.hackthebox.eu/)
 * [Vulnhub](https://www.vulnhub.com/)

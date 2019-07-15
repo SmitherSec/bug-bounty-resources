@@ -16,3 +16,4 @@ to sharpen your web app hacking skills. For example, there is an excellent video
 
 #### Whitepapers
   * http://www.theshulers.com/whitepapers/internet_whitepaper/index.html
+  * https://www.symantec.com/about/corporate-profile/technology/research-labs/papers

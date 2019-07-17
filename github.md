@@ -8,6 +8,7 @@
 * [Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [nahamsec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 * [Ngalongc](https://github.com/ngalongc)
+* [OWASP cheatsheat](https://github.com/OWASP/CheatSheetSeries)
 * [qazbnm456](https://github.com/qazbnm456/awesome-web-security)
 * [Swissky](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Zbetcheckin](https://github.com/zbetcheckin) 

@@ -46,6 +46,9 @@
 
 #### Pink P4nther's blog:
   * https://pinkysplanet.net/
+  
+#### s0cket7's blog:
+  * https://s0cket7.com/
 
 #### ZephrFish's blog:
   * https://blog.zsec.uk/

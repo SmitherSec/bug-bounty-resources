@@ -61,7 +61,9 @@
   
 #### Nahamsec
   * github: https://github.com/nahamsec/
+  * twitch: [nahamsec](https://www.twitch.tv/nahamsec)
   * twitter: [@NahamSec](https://twitter.com/nahamsec)
+  * youtube: [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
   
 #### Ngalongc
   * blog: https://ngailong.wordpress.com/

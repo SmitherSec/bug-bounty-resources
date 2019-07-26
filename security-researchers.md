@@ -100,6 +100,7 @@
 
 #### Zseano
   * github: https://github.com/zseano
+  * medium: [@zseano](https://medium.com/@zseano)
   * twitter: [@zseano](https://twitter.com/zseano)
   * website: 
     * https://zseano.com/

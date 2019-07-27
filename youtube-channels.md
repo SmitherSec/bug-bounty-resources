@@ -13,6 +13,7 @@
   * [MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
   * [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
   * [Yaworsk](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA)
-  * [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+  * [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg).
+    > STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their  BUG BOUNTY game to become a better pentesters, bug hunters and redteamers. STÖK also travels the world, hacks some of the most hardened companies out there and vlogs about the #bountylife
   * [ZephrFish](https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ)
   * [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)

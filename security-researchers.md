@@ -22,7 +22,7 @@
   * twitter: [@Beaujeant](https://twitter.com/Beaujeant)
   
 #### Brutelogic
-  * blog: https://brutelogic.com.br/blog/
+  * blog: https://brutelogic.com.br/blog/. Excellent blog about XSS.
   * twitter: [@brutelogic](https://twitter.com/brutelogic)
   
 #### EdOverflow

@@ -105,4 +105,5 @@
   * website: 
     * https://zseano.com/
     * https://www.bugbountynotes.com/
-  * youtube: [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg)
+  * youtube: [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg).
+    contains video's with live mentoring sessions for beginners

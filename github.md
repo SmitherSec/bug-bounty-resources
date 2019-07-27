@@ -12,7 +12,7 @@
 * [OWASP cheatsheat](https://github.com/OWASP/CheatSheetSeries)
 * [qazbnm456](https://github.com/qazbnm456/awesome-web-security)
 * [Swissky](https://github.com/swisskyrepo/PayloadsAllTheThings)
-* [TomNomNom](https://github.com/TomNomNom) Great open source tools
+* [TomNomNom](https://github.com/TomNomNom). Great open source tools. For an introduction see this [video](https://www.youtube.com/watch?v=l8iXMgk2nnY) by STÖK and TomNomNom.
 * [Zbetcheckin](https://github.com/zbetcheckin) 
 * [ZephrFish](https://github.com/ZephrFish)
 * [Zseano](https://github.com/zseano)

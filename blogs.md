@@ -8,7 +8,7 @@
   * https://www.arneswinnen.net/
   
 #### Brutelogic's blog:
-  * https://brutelogic.com.br/blog/
+  * https://brutelogic.com.br/blog/. Excellent blog about XSS.
 
 #### Dectectify blog:
   * https://blog.detectify.com/

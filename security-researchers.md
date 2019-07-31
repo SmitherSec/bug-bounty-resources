@@ -75,6 +75,7 @@
   * twitter: [@phwd](https://twitter.com/phwd)
   
 #### STÖK
+  * medium: [STÖK](https://medium.com/@stokochtrubbel)
   * twitter: [@stokfredrik](https://twitter.com/stokfredrik)
   * website: https://www.stokfredrik.com/
   * youtube: [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)

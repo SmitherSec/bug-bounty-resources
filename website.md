@@ -8,6 +8,7 @@
 * [hackertube](https://hackertube.net/)
 * [lcamtuf](http://lcamtuf.coredump.cx/)
 * [Pentester Land](https://pentester.land/)
+* [Pentestmonkey](http://pentestmonkey.net/)
 * [portswigger](https://portswigger.net/web-security)
 * [SecJuice](https://www.secjuice.com/)
 * [STÖK](https://www.stokfredrik.com/)

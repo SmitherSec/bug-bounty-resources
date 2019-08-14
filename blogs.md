@@ -19,6 +19,9 @@
 #### Geekboy:
   * https://www.geekboy.ninja/blog/
   
+#### GoSecure:
+  * https://www.gosecure.net/blog
+  
 #### Hackerone:
   * https://www.hackerone.com/blog
 

@@ -7,6 +7,7 @@ to sharpen your web app hacking skills. For example, there is an excellent video
 #### Hacker culture & history
   * http://www.nyxgeek.com/
   * http://www.catb.org/esr/faqs/
+  * http://textfiles.com/hacking/
 
 #### Intelligence agencies
   * https://www.nsa.gov/what-we-do/cybersecurity/#professional-resources

@@ -14,6 +14,9 @@ to sharpen your web app hacking skills. For example, there is an excellent video
   
 #### Investigative journalism
   * https://www.bellingcat.com/category/resources/how-tos/
+  
+#### Podcasts
+  * https://darknetdiaries.com/episode/
 
 #### Whitepapers
   * http://www.theshulers.com/whitepapers/internet_whitepaper/index.html

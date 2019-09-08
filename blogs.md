@@ -1,54 +1,60 @@
 ## Sources containing blogs
 
-#### Albinowax's blogs:
+#### Albinowax:
   * www.skeletonscribe.net
   * https://portswigger.net/blog
   
-#### Arne Swinnen's blog:
+#### Arne Swinnen:
   * https://www.arneswinnen.net/
   
-#### Brutelogic's blog:
+#### Brutelogic:
   * https://brutelogic.com.br/blog/. Excellent blog about XSS.
 
-#### Dectectify blog:
+#### Dectectify:
   * https://blog.detectify.com/
   
-#### Evilsocket's blog:
+#### Evilsocket:
   * https://www.evilsocket.net/
   
-#### Geekboy's blog:
+#### Geekboy:
   * https://www.geekboy.ninja/blog/
   
-#### Hackerone blog:
+#### GoSecure:
+  * https://www.gosecure.net/blog
+  
+#### Hackerone:
   * https://www.hackerone.com/blog
 
-#### IntelTechniques blog:
+#### IntelTechniques:
   * https://inteltechniques.com/blog/
+  
+#### Jon Bottarini:
+  * https://jonbottarini.com/
 
-#### Kaspersky blogs:
+#### Kaspersky:
   * https://www.kaspersky.com/blog/
   * https://securelist.com/
 
-#### Lcamtuf's blog:
+#### Lcamtuf:
   * https://lcamtuf.blogspot.com/
   
-#### Ngalongc's blog:
+#### Ngalongc:
   * https://ngailong.wordpress.com/
   
-#### Noob Ninja's blog:
+#### Noob Ninja:
   * https://www.noob.ninja/
 
-#### Orange Tsai's blog:
+#### Orange Tsai:
   * http://blog.orange.tw/
 
-#### Phwd's blog:
+#### Phwd:
   * https://philippeharewood.com/
 
-#### Pink P4nther's blog:
+#### Pink P4nther:
   * https://pinkysplanet.net/
   
-#### s0cket7's blog:
+#### s0cket7:
   * https://s0cket7.com/
 
-#### ZephrFish's blog:
+#### ZephrFish:
   * https://blog.zsec.uk/

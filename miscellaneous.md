@@ -16,7 +16,7 @@ to sharpen your web app hacking skills. For example, there is an excellent video
   * https://www.bellingcat.com/category/resources/how-tos/
   
 #### Networking
-  * http://www.steves-internet-guide.com/category/networking/
+  * http://www.steves-internet-guide.com/category/networking/. Articles explaining among other things DNS, IPv4, IPv6.
   
 #### Podcasts
   * https://darknetdiaries.com/episode/

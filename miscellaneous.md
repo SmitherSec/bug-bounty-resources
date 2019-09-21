@@ -5,6 +5,7 @@ Allowing yourself some cross-pollination from other areas like game hacking or i
 to sharpen your web app hacking skills. For example, there is an excellent video series about game hacking made by [LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjzzBeFSHXrw9DnQtssdAwgG). It is both highly entertaining en teaching how to reverse engineer a game. He shows methods and skills I believe I will be able to use later on. Therefore I decided to include these kind of sources in this file.
 
 #### Cybersecurity company research
+  * https://blog.detectify.com/
   * https://www.fireeye.com/blog/threat-research.html
   * https://www.gosecure.net/blog
   * https://www.symantec.com/about/corporate-profile/technology/research-labs/papers

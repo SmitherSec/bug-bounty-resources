@@ -9,9 +9,6 @@
   
 #### Brutelogic:
   * https://brutelogic.com.br/blog/. Excellent blog about XSS.
-
-#### Dectectify:
-  * https://blog.detectify.com/
   
 #### Evilsocket:
   * https://www.evilsocket.net/
@@ -19,21 +16,11 @@
 #### Geekboy:
   * https://www.geekboy.ninja/blog/
   
-#### GoSecure:
-  * https://www.gosecure.net/blog
-  
 #### Hackerone:
   * https://www.hackerone.com/blog
-
-#### IntelTechniques:
-  * https://inteltechniques.com/blog/
   
 #### Jon Bottarini:
   * https://jonbottarini.com/
-
-#### Kaspersky:
-  * https://www.kaspersky.com/blog/
-  * https://securelist.com/
 
 #### Lcamtuf:
   * https://lcamtuf.blogspot.com/

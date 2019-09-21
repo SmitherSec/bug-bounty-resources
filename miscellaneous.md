@@ -7,6 +7,7 @@ to sharpen your web app hacking skills. For example, there is an excellent video
 #### Cybersecurity company research
   * https://blog.detectify.com/
   * https://www.fireeye.com/blog/threat-research.html
+  * https://www.fortinet.com/blog/threat-research.html
   * https://www.gosecure.net/blog
   * https://www.kaspersky.com/blog/
   * https://securelist.com/

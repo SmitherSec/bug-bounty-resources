@@ -8,6 +8,8 @@ to sharpen your web app hacking skills. For example, there is an excellent video
   * https://blog.detectify.com/
   * https://www.fireeye.com/blog/threat-research.html
   * https://www.gosecure.net/blog
+  * https://www.kaspersky.com/blog/
+  * https://securelist.com/
   * https://www.symantec.com/about/corporate-profile/technology/research-labs/papers
  
 #### Hacker culture & history

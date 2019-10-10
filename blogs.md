@@ -1,5 +1,8 @@
 ## Sources containing blogs
 
+#### 0xpatrik:
+  * https://0xpatrik.com/
+
 #### Albinowax:
   * www.skeletonscribe.net
   * https://portswigger.net/blog

@@ -15,6 +15,8 @@
   * [Yaworsk](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA)
   * [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg).
     > STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their  BUG         BOUNTY game to become a better pentesters, bug hunters and redteamers. STÖK also travels the world, hacks some of the most hardened companies out there and vlogs about the #bountylife
+  * [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw). 
+    Lessons about hacking, penetration testing and other stuff.
   * [ZephrFish](https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ)
   * [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg).
     This channel contains live mentoring sessions about hacking.

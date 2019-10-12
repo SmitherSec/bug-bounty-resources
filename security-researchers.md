@@ -86,6 +86,12 @@
     * https://swisskyrepo.github.io/
   * twitter: [@pentest_swissky](https://twitter.com/pentest_swissky)
   
+#### The Cyber Mentor
+  * twitter: [@thecybermentor](https://twitter.com/thecybermentor)
+  * youtube: [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw). 
+  * twitch:  https://www.twitch.tv/thecybermentor
+  * website: https://www.thecybermentor.com/
+  
 #### Yaworsk
   * book: [Yaworski, P. (2017). Web Hacking 101. Leanpub.](https://leanpub.com/web-hacking-101)
   * twitter: [@yaworsk](https://twitter.com/yaworsk)

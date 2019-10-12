@@ -88,7 +88,7 @@
   
 #### The Cyber Mentor
   * twitter: [@thecybermentor](https://twitter.com/thecybermentor)
-  * youtube: [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw). 
+  * youtube: [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
   * twitch:  https://www.twitch.tv/thecybermentor
   * website: https://www.thecybermentor.com/
   

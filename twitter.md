@@ -22,6 +22,7 @@
 * [@PortSwigger](https://twitter.com/portswigger)
 * [@seanmeals](https://twitter.com/seanmeals)
 * [@stokfredrik](https://twitter.com/stokfredrik)
+* [@thecybermentor](https://twitter.com/thecybermentor)
 * [@TomNomNom](https://twitter.com/TomNomNom)
 * [@yaworsk](https://twitter.com/yaworsk)
 * [@ZephrFish](https://twitter.com/ZephrFish)

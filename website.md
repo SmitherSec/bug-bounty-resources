@@ -13,5 +13,6 @@
 * [SecJuice](https://www.secjuice.com/)
 * [STÖK](https://www.stokfredrik.com/)
 * [skeletonscribe](www.skeletonscribe.net)
+* [The Cyber Mentor](https://www.thecybermentor.com/)
 * [zseano](https://zseano.com/)
 

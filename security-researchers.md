@@ -86,6 +86,12 @@
     * https://swisskyrepo.github.io/
   * twitter: [@pentest_swissky](https://twitter.com/pentest_swissky)
   
+#### The Cyber Mentor
+  * twitter: [@thecybermentor](https://twitter.com/thecybermentor)
+  * youtube: [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+  * twitch:  https://www.twitch.tv/thecybermentor
+  * website: https://www.thecybermentor.com/
+  
 #### Yaworsk
   * book: [Yaworski, P. (2017). Web Hacking 101. Leanpub.](https://leanpub.com/web-hacking-101)
   * twitter: [@yaworsk](https://twitter.com/yaworsk)
@@ -105,6 +111,5 @@
   * twitter: [@zseano](https://twitter.com/zseano)
   * website: 
     * https://zseano.com/
-    * https://www.bugbountynotes.com/. contains hack challenges. your solution has to be approved by challenge maker. you can also get feedback.
   * youtube: [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg).
     contains video's with live mentoring sessions for beginners

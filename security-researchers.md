@@ -111,6 +111,5 @@
   * twitter: [@zseano](https://twitter.com/zseano)
   * website: 
     * https://zseano.com/
-    * https://www.bugbountynotes.com/. contains hack challenges. your solution has to be approved by challenge maker. you can also get feedback.
   * youtube: [Zseano](https://www.youtube.com/channel/UCCUFgj-52_ryvpQUacylRpg).
     contains video's with live mentoring sessions for beginners

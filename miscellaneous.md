@@ -16,6 +16,8 @@ to sharpen your web app hacking skills. For example, there is an excellent video
 #### Exploit databases
   * https://www.cvedetails.com/
   * https://www.exploit-db.com/
+  * https://cve.mitre.org/cve/
+  * https://nvd.nist.gov/vuln/search
   * https://snyk.io/vuln
  
 #### Hacker culture & history

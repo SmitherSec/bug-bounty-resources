@@ -12,6 +12,11 @@ to sharpen your web app hacking skills. For example, there is an excellent video
   * https://www.kaspersky.com/blog/
   * https://securelist.com/
   * https://www.symantec.com/about/corporate-profile/technology/research-labs/papers
+
+#### Exploit databases
+  * https://www.cvedetails.com/
+  * https://www.exploit-db.com/
+  * https://snyk.io/vuln
  
 #### Hacker culture & history
   * http://textfiles.com/hacking/

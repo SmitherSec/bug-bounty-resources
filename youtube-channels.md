@@ -1,6 +1,8 @@
 ## Sources containing youtube channels
 
   * [Bugcrowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
+  * [Channel 51](https://www.youtube.com/channel/UCTDJXmKN0lK5TBlz6P7d8xA). 
+    Channel with explanation of concepts related to the Certified Ethical Hacker (CEH) v10 course.
   * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
   * [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
   * [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)

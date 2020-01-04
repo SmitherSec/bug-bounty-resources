@@ -35,7 +35,7 @@ to sharpen your web app hacking skills. For example, there is an excellent video
   * http://www.steves-internet-guide.com/category/networking/. Articles explaining among other things DNS, IPv4, IPv6.
   
 #### Pentest reports
-  * https://github.com/juliocesarfort/public-pentesting-reports
+  * https://github.com/juliocesarfort/public-pentesting-reports. Public pentest reports.
   
 #### Podcasts
   * https://darknetdiaries.com/episode/

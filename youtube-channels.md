@@ -10,6 +10,7 @@
   * [Gynvael](https://www.youtube.com/c/GynvaelEN)
   * [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
   * [Jackk](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
+  * [Jhaddix](https://www.youtube.com/channel/UCk0f0svao7AKeK3RfiWxXEA/videos)
   * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
   * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
   * [MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)

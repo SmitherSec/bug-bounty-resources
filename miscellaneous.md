@@ -12,6 +12,13 @@ to sharpen your web app hacking skills. For example, there is an excellent video
   * https://www.kaspersky.com/blog/
   * https://securelist.com/
   * https://www.symantec.com/about/corporate-profile/technology/research-labs/papers
+
+#### Exploit databases
+  * https://www.cvedetails.com/
+  * https://www.exploit-db.com/
+  * https://cve.mitre.org/cve/
+  * https://nvd.nist.gov/vuln/search
+  * https://snyk.io/vuln
  
 #### Hacker culture & history
   * http://textfiles.com/hacking/
@@ -26,6 +33,9 @@ to sharpen your web app hacking skills. For example, there is an excellent video
   
 #### Networking
   * http://www.steves-internet-guide.com/category/networking/. Articles explaining among other things DNS, IPv4, IPv6.
+  
+#### Pentest reports
+  * https://github.com/juliocesarfort/public-pentesting-reports. Public pentest reports.
   
 #### Podcasts
   * https://darknetdiaries.com/episode/

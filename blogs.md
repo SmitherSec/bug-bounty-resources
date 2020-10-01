@@ -33,6 +33,9 @@
   
 #### Noob Ninja:
   * https://www.noob.ninja/
+  
+#### Null Byte:
+  * https://null-byte.wonderhowto.com/
 
 #### Orange Tsai:
   * http://blog.orange.tw/

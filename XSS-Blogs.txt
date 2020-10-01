@@ -98,8 +98,6 @@ https://medium.com/bugbountywriteup/how-i-was-able-to-leak-your-session-token-a-
 
 https://medium.com/@jonathanbouman
 
-Purab Bhai 2, [01.10.20 22:24]
-
 https://medium.com/a-bugz-life/from-reflected-xss-to-account-takeover-showing-xss-impact-9bc6dd35d4e6
 
 https://medium.com/@kassihmouhssine/cross-site-scripting-the-power-of-the-hidden-parameters-259a4d2c4c09

@@ -195,3 +195,7 @@ https://medium.com/@rootbakar/has-recommended
 https://medium.com/@terjanq/arbitrary-parentheses-less-xss-e4a1cf37c13d
 
 https://medium.com/bugbountywriteup/apache-example-servlet-leads-to-61a2720cac20
+
+https://medium.com/bugbountywriteup/reflected-dom-xss-and-clickjacking-on-https-silvergoldbull-de-bt-html-daa36bdf7bf0
+
+https://medium.com/bugbountywriteup/effective-vulnerability-report-writing-quick-triages-to-bonus-always-a-win-41b37188c63

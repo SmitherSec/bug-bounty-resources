@@ -46,6 +46,9 @@
 #### Pink P4nther:
   * https://pinkysplanet.net/
   
+#### Sam Curry:
+  * https://samcurry.net/
+  
 #### s0cket7:
   * https://s0cket7.com/
 

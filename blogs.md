@@ -47,7 +47,7 @@
   * https://pinkysplanet.net/
   
 #### Sam Curry:
-  * https://samcurry.net/
+  * https://samcurry.net/. Great blog about Web Application Security Research.
   
 #### s0cket7:
   * https://s0cket7.com/
